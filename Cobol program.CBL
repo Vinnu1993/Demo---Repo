@@ -1,0 +1,5 @@
+IDENTIFICATION DIVISION.
+PROGRAM-ID. HelloWorld.
+PROCEDURE DIVISION.
+    DISPLAY "Hello, Wecome to my World!".
+    STOP RUN.
